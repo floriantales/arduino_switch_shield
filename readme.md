@@ -1,6 +1,6 @@
 # Arduino Switch Shield
 
-Description du projet : [Wiki Florian TALES](http://floriantales.hd.free.fr/doku.php?id=electronique:micro_controleurs:arduino:switch_shield)
+Description du projet : [Wiki Florian TALES](http://floriantales.hd.free.fr/doku.php?id=electronique:micro_controleurs:atmega328:switch_shield)
 
 ## Getting Started
 
